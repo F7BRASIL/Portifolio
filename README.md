@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full Stack** · TypeScript · Node.js · Integrações · Automação web
 
-Curitiba, PR · remoto · [fabio98530404@gmail.com](mailto:fabio98530404@gmail.com)
+Curitiba, PR · remoto · [fabio98530404@gmail.com](mailto:fabio98530404@gmail.com) · [GitHub @F7BRASIL](https://github.com/F7BRASIL)
 
 ---
 
@@ -73,6 +73,7 @@ Sistema que automatiza envio de propostas de crédito veicular em **múltiplos p
 ## Contato
 
 📧 fabio98530404@gmail.com  
+🐙 https://github.com/F7BRASIL  
 📍 Curitiba, PR — disponível **100% remoto**
 
 ---

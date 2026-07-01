@@ -6,9 +6,8 @@ Pasta pronta: `docs/carreira/github-portfolio/`
 
 ## 1. Criar conta (se ainda não tiver)
 
-1. Acesse https://github.com/signup
-2. E-mail: **fabio98530404@gmail.com**
-3. Username sugerido: **`fabionevesdev`** ou **`fabio-neves-silva`**
+1. Conta existente: **https://github.com/F7BRASIL**
+2. Username: **`F7BRASIL`**
 
 ---
 
@@ -17,7 +16,7 @@ Pasta pronta: `docs/carreira/github-portfolio/`
 1. GitHub → **New repository**
 2. Nome: **`portfolio`** ou **`automacao-financeira-portfolio`**
 3. **Public**
-4. Marque **Add a README** → Create
+4. **Não** marque "Add a README" (já temos arquivos locais) → Create
 
 ---
 
@@ -33,11 +32,11 @@ git add README.md .gitignore examples/
 git commit -m "Portfólio técnico — Fábio Neves da Silva"
 
 git branch -M main
-git remote add origin https://github.com/SEU-USUARIO/portfolio.git
+git remote add origin https://github.com/F7BRASIL/portfolio.git
 git push -u origin main
 ```
 
-Substitua `SEU-USUARIO` pelo username que criou.
+Substitua `SEU-USUARIO` pelo username **`F7BRASIL`** (já configurado nos demais arquivos).
 
 ---
 
@@ -52,7 +51,7 @@ GitHub → seu perfil → **Customize your pins** → selecione o repo `portfoli
 Depois de publicar, adicione no `curriculo.html`:
 
 ```html
-<a href="https://github.com/SEU-USUARIO/portfolio">GitHub</a>
+<a href="https://github.com/F7BRASIL/portfolio">GitHub</a>
 ```
 
 ---
@@ -72,5 +71,5 @@ Este pacote contém **só README + exemplos genéricos**.
 No Programathor/Kairogen, campo GitHub:
 
 ```
-https://github.com/SEU-USUARIO/portfolio
+https://github.com/F7BRASIL/portfolio
 ```
