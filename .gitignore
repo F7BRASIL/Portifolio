@@ -1,0 +1,16 @@
+# Nunca publicar estes arquivos em repo público
+.env
+.env.*
+agent.env
+*.local.env
+data/
+config/portais/
+validados/
+node_modules/
+dist/
+*.db
+*.sqlite
+*.sqlite3
+credentials*
+*secret*
+*password*
